@@ -1,3 +1,5 @@
+# ⚠ Repositório em andamento...
+
 # Python Fundamentos Para Análise de Dados 3.0
 
 ## 👩🏾‍💻 Sobre o projeto
