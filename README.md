@@ -16,7 +16,7 @@ Este curso irá apresentar a você, os conceitos básicos e fundamentos da lingu
 
 - Cap 01 - Introdução 
 
-- Cap 02 - Loop, Condicionais, Métodos  e Funções  - [Exercícios – CAP03–Lista-Tuplas-Dicionarios](https://github.com/DeboraSouza277/Python_Fundamentos_DSA/blob/main/DSA-Python-Cap02-Exercicios-Lista-Tuplas-Dicionarios.ipynb)
+- Cap 02 - Loop, Condicionais, Métodos  e Funções  - [Exercícios – CAP02–Lista-Tuplas-Dicionarios](https://github.com/DeboraSouza277/Python_Fundamentos_DSA/blob/main/DSA-Python-Cap02-Exercicios-Lista-Tuplas-Dicionarios.ipynb)
 
 - Cap 03 - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in   -  [Exercícios – CAP03–Métodos e Funções](https://github.com/DeboraSouza277/Python_Fundamentos_DSA/blob/main/DSA-Python-Cap03-Exercicios-Funcoes-Solucao.ipynb)
 
