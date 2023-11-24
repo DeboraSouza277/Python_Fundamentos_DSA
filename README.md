@@ -2,18 +2,22 @@
 
 # Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
-## 👩🏾‍💻 Sobre o projeto
+## 👩🏾‍💻 Sobre o repositório
 
 Esse é um repositório que contém o estudo e projetos desenvolvidos no curos Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
-## 🎲 Dados do Curso
+## 🎲 Dados do curso
 
-Este curso irá apresentar a você, os conceitos básicos e fundamentos da linguagem de programação Python. Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, será possível testar seus conhecimentos e aplicá-los em projetos de Data Science.
-O curso está dividido em 3 partes:
+Este curso irá apresentar os conceitos da linguagem de programação Python. Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, ao mesmo tempo que será abordado fundamentos em Análise de Dados e Data Science. E tudo isso com o apoio de um assistente baseado em IA, o ChatGPT.
+O curso tem carga horária de 72 h/a e está dividido em 3 partes:
 
-Nível Introdutório
-Nível Básico
-Nível Intermediário
+-Nível Introdutório
+
+-Nível Básico
+
+-Nível Intermediário
+
+
 
 ## 📚 Conteúdo
 - Cap 01 - Introdução 
