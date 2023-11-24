@@ -1,6 +1,6 @@
 # ⚠ Repositório em andamento...
 
-# Python Fundamentos Para Análise de Dados 3.0
+# Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
 ## 👩🏾‍💻 Sobre o projeto
 
