@@ -4,7 +4,7 @@
 
 ## 👩🏾‍💻 Sobre o projeto
 
-Esse é um repositório que contém o estudo e projetos desenvolvidos do curso de Python Fundamentos para análise de dados 3.0.
+Esse é um repositório que contém o estudo e projetos desenvolvidos no curos Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
 ## 🎲 Dados do Curso
 
