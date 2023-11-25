@@ -20,10 +20,11 @@ O curso tem carga horária de 72 h/a e está dividido em 3 partes:
 
 
 ## 📚 Conteúdo
-- Cap 01 - Introdução 
-- Cap 02 - Primeiros Passos com a Lingugem Python - Visão Geral, Instalação e ChatGPT
-- Cap 03 - Linguagem Python Nível Introdutório - Introdução à Lógica de Programação
-- Cap 04 - Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados
+- Cap 01 - Introdução ✔
+- Cap 02 - Primeiros Passos com a Lingugem Python - Visão Geral, Instalação e ChatGPT ✔
+- Cap 03 - Linguagem Python Nível Introdutório - Introdução à Lógica de Programação ✔
+- Cap 04 - Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados ✔
+- Cap 05 - Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
 
 #### Exercícios :
 #### Desafios :
