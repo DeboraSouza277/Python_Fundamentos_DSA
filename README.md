@@ -27,4 +27,5 @@ O curso tem carga horária de 72 h/a e está dividido em 3 partes:
 - Cap 05 - Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
 
 #### Exercícios :
+![Cap04-Exercicios](https://github.com/DeboraSouza277/Python_Fundamentos_DSA/blob/main/DSA-Python-Cap04-Exercicios.ipynb)
 #### Desafios :
